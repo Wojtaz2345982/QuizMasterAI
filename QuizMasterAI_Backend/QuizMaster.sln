@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizMaster", "QuizMaster\QuizMaster.csproj", "{A58EA452-AA52-4D22-A848-14E3DF61383B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizMaster.AppHost", "QuizMaster.AppHost\QuizMaster.AppHost.csproj", "{0AF61047-AB87-4DCE-94C8-8201CF816EE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizMaster.ServiceDefaults", "QuizMaster.ServiceDefaults\QuizMaster.ServiceDefaults.csproj", "{D21BAAE2-D664-4F05-A6EF-EBCD92BC9AD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{448F7BAA-DC67-42A8-8C6C-0F6679C5A70E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A58EA452-AA52-4D22-A848-14E3DF61383B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58EA452-AA52-4D22-A848-14E3DF61383B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58EA452-AA52-4D22-A848-14E3DF61383B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58EA452-AA52-4D22-A848-14E3DF61383B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF61047-AB87-4DCE-94C8-8201CF816EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF61047-AB87-4DCE-94C8-8201CF816EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF61047-AB87-4DCE-94C8-8201CF816EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF61047-AB87-4DCE-94C8-8201CF816EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21BAAE2-D664-4F05-A6EF-EBCD92BC9AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21BAAE2-D664-4F05-A6EF-EBCD92BC9AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21BAAE2-D664-4F05-A6EF-EBCD92BC9AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21BAAE2-D664-4F05-A6EF-EBCD92BC9AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF3B3BBF-A501-46A2-9364-FCC39C66FE36}
+	EndGlobalSection
+EndGlobal
