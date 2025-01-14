@@ -1,5 +1,5 @@
 # QuizMaster AI - Frontend
-#Builded with Lovable.dev
+# Builded with Lovable.dev
 
 A modern, AI-powered quiz application built with React and TypeScript.
 
