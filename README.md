@@ -4,6 +4,10 @@
 
 QuizMaster AI is an intelligent quiz platform that revolutionizes the way you create and take quizzes. Whether you're a teacher, student, or quiz enthusiast, our platform offers a unique experience by leveraging AI to generate engaging and educational quizzes.
 
+
+![image](https://github.com/user-attachments/assets/803b10cb-605c-400f-9080-bcc8ecedaea9)
+
+
 ### ✨ Key Features for Users
 
 #### 📝 Create AI-Powered Quizzes
